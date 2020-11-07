@@ -14,3 +14,7 @@ Creating Personal Finance Model in Python.
 
 
 ### Scenario Modelling
+
+
+
+# GUI Interactive APP 
